@@ -24,7 +24,7 @@ h1 {    /* removed .header */
     color: #d9dcd6;
 }
 
-div {   /* removed .header */
+nav {   /* replaced div with nav */
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +32,11 @@ div {   /* removed .header */
     font-size: 20px;
 }
 
-div ul {    /* removed .header */
+ul {    /* removed .header and div */
     list-style-type: none;
 }
 
-div ul li {
+ul li { /*removed div*/
     display: inline-block;
     margin-left: 25px;
 }
@@ -75,7 +75,7 @@ p {
     margin-left: 20px;
 }
 
-.benefits {
+aside { /*changed div class benefits to aside*/
     margin-right: 20px;
     padding: 20px;
     clear: both;
