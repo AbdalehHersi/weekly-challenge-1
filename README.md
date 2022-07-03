@@ -34,3 +34,4 @@ In this Weekly challenge we were assigned some starter code to refractor so that
 <li><a href="https://github.com/AbdalehHersi">Github</li>
 <li>therealhersi03@gmail.com</li>
 
+<li><a href="https://abdalehhersi.github.io/weekly-challenge-1/develop/"><b>Link to the deployed website<b/></li>
